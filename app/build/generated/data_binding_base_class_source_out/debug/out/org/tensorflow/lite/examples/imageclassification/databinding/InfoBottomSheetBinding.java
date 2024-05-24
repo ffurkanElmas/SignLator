@@ -4,10 +4,10 @@ package org.tensorflow.lite.examples.imageclassification.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatImageButton;
 import androidx.core.widget.NestedScrollView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -24,36 +24,18 @@ public final class InfoBottomSheetBinding implements ViewBinding {
   public final NestedScrollView bottomSheetLayout;
 
   @NonNull
-  public final AppCompatImageButton maxResultsMinus;
+  public final TextView currentSentenceTextView;
 
   @NonNull
-  public final AppCompatImageButton maxResultsPlus;
-
-  @NonNull
-  public final TextView maxResultsValue;
-
-  @NonNull
-  public final AppCompatImageButton thresholdMinus;
-
-  @NonNull
-  public final AppCompatImageButton thresholdPlus;
-
-  @NonNull
-  public final TextView thresholdValue;
+  public final EditText editText;
 
   private InfoBottomSheetBinding(@NonNull NestedScrollView rootView,
-      @NonNull NestedScrollView bottomSheetLayout, @NonNull AppCompatImageButton maxResultsMinus,
-      @NonNull AppCompatImageButton maxResultsPlus, @NonNull TextView maxResultsValue,
-      @NonNull AppCompatImageButton thresholdMinus, @NonNull AppCompatImageButton thresholdPlus,
-      @NonNull TextView thresholdValue) {
+      @NonNull NestedScrollView bottomSheetLayout, @NonNull TextView currentSentenceTextView,
+      @NonNull EditText editText) {
     this.rootView = rootView;
     this.bottomSheetLayout = bottomSheetLayout;
-    this.maxResultsMinus = maxResultsMinus;
-    this.maxResultsPlus = maxResultsPlus;
-    this.maxResultsValue = maxResultsValue;
-    this.thresholdMinus = thresholdMinus;
-    this.thresholdPlus = thresholdPlus;
-    this.thresholdValue = thresholdValue;
+    this.currentSentenceTextView = currentSentenceTextView;
+    this.editText = editText;
   }
 
   @Override
@@ -85,45 +67,20 @@ public final class InfoBottomSheetBinding implements ViewBinding {
     missingId: {
       NestedScrollView bottomSheetLayout = (NestedScrollView) rootView;
 
-      id = R.id.max_results_minus;
-      AppCompatImageButton maxResultsMinus = ViewBindings.findChildViewById(rootView, id);
-      if (maxResultsMinus == null) {
+      id = R.id.current_sentence_text_view;
+      TextView currentSentenceTextView = ViewBindings.findChildViewById(rootView, id);
+      if (currentSentenceTextView == null) {
         break missingId;
       }
 
-      id = R.id.max_results_plus;
-      AppCompatImageButton maxResultsPlus = ViewBindings.findChildViewById(rootView, id);
-      if (maxResultsPlus == null) {
-        break missingId;
-      }
-
-      id = R.id.max_results_value;
-      TextView maxResultsValue = ViewBindings.findChildViewById(rootView, id);
-      if (maxResultsValue == null) {
-        break missingId;
-      }
-
-      id = R.id.threshold_minus;
-      AppCompatImageButton thresholdMinus = ViewBindings.findChildViewById(rootView, id);
-      if (thresholdMinus == null) {
-        break missingId;
-      }
-
-      id = R.id.threshold_plus;
-      AppCompatImageButton thresholdPlus = ViewBindings.findChildViewById(rootView, id);
-      if (thresholdPlus == null) {
-        break missingId;
-      }
-
-      id = R.id.threshold_value;
-      TextView thresholdValue = ViewBindings.findChildViewById(rootView, id);
-      if (thresholdValue == null) {
+      id = R.id.edit_text;
+      EditText editText = ViewBindings.findChildViewById(rootView, id);
+      if (editText == null) {
         break missingId;
       }
 
       return new InfoBottomSheetBinding((NestedScrollView) rootView, bottomSheetLayout,
-          maxResultsMinus, maxResultsPlus, maxResultsValue, thresholdMinus, thresholdPlus,
-          thresholdValue);
+          currentSentenceTextView, editText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

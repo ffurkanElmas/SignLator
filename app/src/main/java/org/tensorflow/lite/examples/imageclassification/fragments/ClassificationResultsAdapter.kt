@@ -1,19 +1,3 @@
-/*
- * Copyright 2022 The TensorFlow Authors. All Rights Reserved.
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *             http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package org.tensorflow.lite.examples.imageclassification.fragments
 
 import android.view.LayoutInflater
@@ -50,6 +34,20 @@ class ClassificationResultsAdapter :
         adapterSize = size
     }
 
+    fun getCurrentWord(): String? {
+        return categories.firstOrNull()?.label?.let { label ->
+            when (label) {
+                "0" -> "Ben"
+                "1" -> "Sen"
+                "2" -> "Merhaba"
+                "3" -> "Güle Güle"
+                "4" -> "A"
+                "5" -> "B"
+                else -> label
+            }
+        }
+    }
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val binding = ItemClassificationResultBinding.inflate(
             LayoutInflater.from(parent.context),
@@ -73,23 +71,13 @@ class ClassificationResultsAdapter :
         fun bind(label: String?, score: Float?) {
             with(binding) {
                 var modifiedLabel = label
-                if (modifiedLabel == "0") {
-                    modifiedLabel = "Ben"
-                }
-                else if (modifiedLabel == "1") {
-                    modifiedLabel = "Sen"
-                }
-                else if (modifiedLabel == "2") {
-                    modifiedLabel = "Merhaba"
-                }
-                else if (modifiedLabel == "3") {
-                    modifiedLabel = "Güle Güle"
-                }
-                else if (modifiedLabel == "4") {
-                    modifiedLabel = "A"
-                }
-                else if (modifiedLabel == "5") {
-                    modifiedLabel = "B"
+                when (modifiedLabel) {
+                    "0" -> modifiedLabel = "Ben"
+                    "1" -> modifiedLabel = "Sen"
+                    "2" -> modifiedLabel = "Merhaba"
+                    "3" -> modifiedLabel = "Güle Güle"
+                    "4" -> modifiedLabel = "A"
+                    "5" -> modifiedLabel = "B"
                 }
                 tvLabel.text = modifiedLabel ?: NO_VALUE
                 tvScore.text = if (score != null) String.format("%.2f", score) else NO_VALUE

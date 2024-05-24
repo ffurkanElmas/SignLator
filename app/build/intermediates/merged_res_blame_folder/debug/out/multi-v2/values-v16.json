@@ -4,7 +4,7 @@
             "outputFile": "org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-39:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Furkan Elmas\\.gradle\\caches\\transforms-3\\5427d97e5d26f40fcdb809ff0e47de21\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\caches\\transforms-3\\5427d97e5d26f40fcdb809ff0e47de21\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Furkan Elmas\\.gradle\\caches\\transforms-3\\4e573c108d048abef14b5c56fae8c824\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\caches\\transforms-3\\4e573c108d048abef14b5c56fae8c824\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
