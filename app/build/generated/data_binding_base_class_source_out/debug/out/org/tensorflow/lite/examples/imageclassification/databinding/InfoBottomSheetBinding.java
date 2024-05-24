@@ -8,7 +8,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatImageButton;
-import androidx.appcompat.widget.AppCompatSpinner;
 import androidx.core.widget.NestedScrollView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -25,12 +24,6 @@ public final class InfoBottomSheetBinding implements ViewBinding {
   public final NestedScrollView bottomSheetLayout;
 
   @NonNull
-  public final TextView inferenceTimeLabel;
-
-  @NonNull
-  public final TextView inferenceTimeVal;
-
-  @NonNull
   public final AppCompatImageButton maxResultsMinus;
 
   @NonNull
@@ -38,21 +31,6 @@ public final class InfoBottomSheetBinding implements ViewBinding {
 
   @NonNull
   public final TextView maxResultsValue;
-
-  @NonNull
-  public final AppCompatSpinner spinnerDelegate;
-
-  @NonNull
-  public final AppCompatSpinner spinnerModel;
-
-  @NonNull
-  public final AppCompatImageButton threadsMinus;
-
-  @NonNull
-  public final AppCompatImageButton threadsPlus;
-
-  @NonNull
-  public final TextView threadsValue;
 
   @NonNull
   public final AppCompatImageButton thresholdMinus;
@@ -64,25 +42,15 @@ public final class InfoBottomSheetBinding implements ViewBinding {
   public final TextView thresholdValue;
 
   private InfoBottomSheetBinding(@NonNull NestedScrollView rootView,
-      @NonNull NestedScrollView bottomSheetLayout, @NonNull TextView inferenceTimeLabel,
-      @NonNull TextView inferenceTimeVal, @NonNull AppCompatImageButton maxResultsMinus,
+      @NonNull NestedScrollView bottomSheetLayout, @NonNull AppCompatImageButton maxResultsMinus,
       @NonNull AppCompatImageButton maxResultsPlus, @NonNull TextView maxResultsValue,
-      @NonNull AppCompatSpinner spinnerDelegate, @NonNull AppCompatSpinner spinnerModel,
-      @NonNull AppCompatImageButton threadsMinus, @NonNull AppCompatImageButton threadsPlus,
-      @NonNull TextView threadsValue, @NonNull AppCompatImageButton thresholdMinus,
-      @NonNull AppCompatImageButton thresholdPlus, @NonNull TextView thresholdValue) {
+      @NonNull AppCompatImageButton thresholdMinus, @NonNull AppCompatImageButton thresholdPlus,
+      @NonNull TextView thresholdValue) {
     this.rootView = rootView;
     this.bottomSheetLayout = bottomSheetLayout;
-    this.inferenceTimeLabel = inferenceTimeLabel;
-    this.inferenceTimeVal = inferenceTimeVal;
     this.maxResultsMinus = maxResultsMinus;
     this.maxResultsPlus = maxResultsPlus;
     this.maxResultsValue = maxResultsValue;
-    this.spinnerDelegate = spinnerDelegate;
-    this.spinnerModel = spinnerModel;
-    this.threadsMinus = threadsMinus;
-    this.threadsPlus = threadsPlus;
-    this.threadsValue = threadsValue;
     this.thresholdMinus = thresholdMinus;
     this.thresholdPlus = thresholdPlus;
     this.thresholdValue = thresholdValue;
@@ -117,18 +85,6 @@ public final class InfoBottomSheetBinding implements ViewBinding {
     missingId: {
       NestedScrollView bottomSheetLayout = (NestedScrollView) rootView;
 
-      id = R.id.inference_time_label;
-      TextView inferenceTimeLabel = ViewBindings.findChildViewById(rootView, id);
-      if (inferenceTimeLabel == null) {
-        break missingId;
-      }
-
-      id = R.id.inference_time_val;
-      TextView inferenceTimeVal = ViewBindings.findChildViewById(rootView, id);
-      if (inferenceTimeVal == null) {
-        break missingId;
-      }
-
       id = R.id.max_results_minus;
       AppCompatImageButton maxResultsMinus = ViewBindings.findChildViewById(rootView, id);
       if (maxResultsMinus == null) {
@@ -144,36 +100,6 @@ public final class InfoBottomSheetBinding implements ViewBinding {
       id = R.id.max_results_value;
       TextView maxResultsValue = ViewBindings.findChildViewById(rootView, id);
       if (maxResultsValue == null) {
-        break missingId;
-      }
-
-      id = R.id.spinner_delegate;
-      AppCompatSpinner spinnerDelegate = ViewBindings.findChildViewById(rootView, id);
-      if (spinnerDelegate == null) {
-        break missingId;
-      }
-
-      id = R.id.spinner_model;
-      AppCompatSpinner spinnerModel = ViewBindings.findChildViewById(rootView, id);
-      if (spinnerModel == null) {
-        break missingId;
-      }
-
-      id = R.id.threads_minus;
-      AppCompatImageButton threadsMinus = ViewBindings.findChildViewById(rootView, id);
-      if (threadsMinus == null) {
-        break missingId;
-      }
-
-      id = R.id.threads_plus;
-      AppCompatImageButton threadsPlus = ViewBindings.findChildViewById(rootView, id);
-      if (threadsPlus == null) {
-        break missingId;
-      }
-
-      id = R.id.threads_value;
-      TextView threadsValue = ViewBindings.findChildViewById(rootView, id);
-      if (threadsValue == null) {
         break missingId;
       }
 
@@ -196,9 +122,8 @@ public final class InfoBottomSheetBinding implements ViewBinding {
       }
 
       return new InfoBottomSheetBinding((NestedScrollView) rootView, bottomSheetLayout,
-          inferenceTimeLabel, inferenceTimeVal, maxResultsMinus, maxResultsPlus, maxResultsValue,
-          spinnerDelegate, spinnerModel, threadsMinus, threadsPlus, threadsValue, thresholdMinus,
-          thresholdPlus, thresholdValue);
+          maxResultsMinus, maxResultsPlus, maxResultsValue, thresholdMinus, thresholdPlus,
+          thresholdValue);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

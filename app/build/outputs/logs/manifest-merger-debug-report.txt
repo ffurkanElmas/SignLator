@@ -147,9 +147,9 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Furkan Elmas\.g
 	tools:ignore
 		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:38:9-35
 	android:roundIcon
-		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:35:9-54
+		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:35:9-52
 	android:icon
-		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:33:9-43
+		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:33:9-47
 	android:allowBackup
 		ADDED from C:\Users\Furkan Elmas\Desktop\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:32:9-35
 	android:taskAffinity

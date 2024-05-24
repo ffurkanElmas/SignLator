@@ -2818,8 +2818,6 @@ id ignoreRequest
 id image
 id immediateStop
 id included
-id inference_time_label
-id inference_time_val
 id info
 id invisible
 id inward
@@ -2998,8 +2996,6 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
-id spinner_delegate
-id spinner_model
 id spline
 id split_action_bar
 id spread
@@ -3055,9 +3051,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id threads_minus
-id threads_plus
-id threads_value
 id threshold_minus
 id threshold_plus
 id threshold_value
@@ -3293,6 +3286,12 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+mipmap signlatoriconcr
+mipmap signlatoriconcr_adaptive_back
+mipmap signlatoriconcr_adaptive_fore
+mipmap signlatoriconsq
+mipmap signlatoriconsq_adaptive_back
+mipmap signlatoriconsq_adaptive_fore
 navigation nav_graph
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

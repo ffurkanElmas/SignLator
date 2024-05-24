@@ -14,7 +14,7 @@
         ~ limitations under the License.
     -->
 <resources>
-    <string name="app_name">TFLite Image Classification</string>
+    <string name="app_name">Signlator</string>
 
     <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
 

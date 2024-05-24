@@ -168,60 +168,7 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
             }
         }
 
-        // When clicked, decrease the number of threads used for classification
-        fragmentCameraBinding.bottomSheetLayout.threadsMinus.setOnClickListener {
-            if (imageClassifierHelper.numThreads > 1) {
-                imageClassifierHelper.numThreads--
-                updateControlsUi()
-            }
-        }
 
-        // When clicked, increase the number of threads used for classification
-        fragmentCameraBinding.bottomSheetLayout.threadsPlus.setOnClickListener {
-            if (imageClassifierHelper.numThreads < 4) {
-                imageClassifierHelper.numThreads++
-                updateControlsUi()
-            }
-        }
-
-        // When clicked, change the underlying hardware used for inference. Current options are CPU
-        // GPU, and NNAPI
-        fragmentCameraBinding.bottomSheetLayout.spinnerDelegate.setSelection(0, false)
-        fragmentCameraBinding.bottomSheetLayout.spinnerDelegate.onItemSelectedListener =
-            object : AdapterView.OnItemSelectedListener {
-                override fun onItemSelected(
-                    parent: AdapterView<*>?,
-                    view: View?,
-                    position: Int,
-                    id: Long
-                ) {
-                    imageClassifierHelper.currentDelegate = position
-                    updateControlsUi()
-                }
-
-                override fun onNothingSelected(parent: AdapterView<*>?) {
-                    /* no op */
-                }
-            }
-
-        // When clicked, change the underlying model used for object classification
-        fragmentCameraBinding.bottomSheetLayout.spinnerModel.setSelection(0, false)
-        fragmentCameraBinding.bottomSheetLayout.spinnerModel.onItemSelectedListener =
-            object : AdapterView.OnItemSelectedListener {
-                override fun onItemSelected(
-                    parent: AdapterView<*>?,
-                    view: View?,
-                    position: Int,
-                    id: Long
-                ) {
-                    imageClassifierHelper.currentModel = position
-                    updateControlsUi()
-                }
-
-                override fun onNothingSelected(parent: AdapterView<*>?) {
-                    /* no op */
-                }
-            }
     }
 
     // Update the values displayed in the bottom sheet. Reset classifier.
@@ -229,10 +176,6 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
         fragmentCameraBinding.bottomSheetLayout.maxResultsValue.text =
             imageClassifierHelper.maxResults.toString()
 
-        fragmentCameraBinding.bottomSheetLayout.thresholdValue.text =
-            String.format("%.2f", imageClassifierHelper.threshold)
-        fragmentCameraBinding.bottomSheetLayout.threadsValue.text =
-            imageClassifierHelper.numThreads.toString()
         // Needs to be cleared instead of reinitialized because the GPU
         // delegate needs to be initialized on the thread using it when applicable
         imageClassifierHelper.clearImageClassifier()
@@ -345,8 +288,7 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
             // Show result on bottom sheet
             classificationResultsAdapter.updateResults(results)
             classificationResultsAdapter.notifyDataSetChanged()
-            fragmentCameraBinding.bottomSheetLayout.inferenceTimeVal.text =
-                String.format("%d ms", inferenceTime)
+
         }
     }
 }

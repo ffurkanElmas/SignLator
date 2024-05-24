@@ -2817,8 +2817,6 @@ int id ignoreRequest 0x7f0900eb
 int id image 0x7f0900ec
 int id immediateStop 0x7f0900ed
 int id included 0x7f0900ee
-int id inference_time_label 0x7f0900ef
-int id inference_time_val 0x7f0900f0
 int id info 0x7f0900f1
 int id invisible 0x7f0900f2
 int id inward 0x7f0900f3
@@ -2997,8 +2995,6 @@ int id snapMargins 0x7f09019f
 int id south 0x7f0901a0
 int id spacer 0x7f0901a1
 int id special_effects_controller_view_tag 0x7f0901a2
-int id spinner_delegate 0x7f0901a3
-int id spinner_model 0x7f0901a4
 int id spline 0x7f0901a5
 int id split_action_bar 0x7f0901a6
 int id spread 0x7f0901a7
@@ -3054,9 +3050,6 @@ int id textinput_helper_text 0x7f0901d8
 int id textinput_placeholder 0x7f0901d9
 int id textinput_prefix_text 0x7f0901da
 int id textinput_suffix_text 0x7f0901db
-int id threads_minus 0x7f0901dc
-int id threads_plus 0x7f0901dd
-int id threads_value 0x7f0901de
 int id threshold_minus 0x7f0901df
 int id threshold_plus 0x7f0901e0
 int id threshold_value 0x7f0901e1
@@ -3292,6 +3285,12 @@ int layout text_view_without_line_height 0x7f0c0079
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_foreground 0x7f0d0001
 int mipmap ic_launcher_round 0x7f0d0002
+int mipmap signlatoriconcr 0x7f0d0003
+int mipmap signlatoriconcr_adaptive_back 0x7f0d0004
+int mipmap signlatoriconcr_adaptive_fore 0x7f0d0005
+int mipmap signlatoriconsq 0x7f0d0006
+int mipmap signlatoriconsq_adaptive_back 0x7f0d0007
+int mipmap signlatoriconsq_adaptive_fore 0x7f0d0008
 int navigation nav_graph 0x7f0e0000
 int plurals mtrl_badge_content_description 0x7f0f0000
 int string abc_action_bar_home_description 0x7f100000
