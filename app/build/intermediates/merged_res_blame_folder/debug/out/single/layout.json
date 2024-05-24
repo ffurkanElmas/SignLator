@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-40:\\layout\\item_classification_result.xml",
+        "source": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\item_classification_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-40:\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-40:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Furkan Elmas\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\activity_main.xml"
+    }
+]

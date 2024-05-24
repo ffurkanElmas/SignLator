@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["org.tensorflow.lite.examples.imageclassification.fragments.PermissionsFragmentDirections","org.tensorflow.lite.examples.imageclassification.fragments.CameraFragmentDirections"]}]
