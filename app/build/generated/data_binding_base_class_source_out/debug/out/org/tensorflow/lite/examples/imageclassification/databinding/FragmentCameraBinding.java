@@ -4,6 +4,7 @@ package org.tensorflow.lite.examples.imageclassification.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.camera.view.PreviewView;
@@ -21,6 +22,9 @@ public final class FragmentCameraBinding implements ViewBinding {
   private final CoordinatorLayout rootView;
 
   @NonNull
+  public final Button addWordButton;
+
+  @NonNull
   public final InfoBottomSheetBinding bottomSheetLayout;
 
   @NonNull
@@ -32,10 +36,11 @@ public final class FragmentCameraBinding implements ViewBinding {
   @NonNull
   public final PreviewView viewFinder;
 
-  private FragmentCameraBinding(@NonNull CoordinatorLayout rootView,
+  private FragmentCameraBinding(@NonNull CoordinatorLayout rootView, @NonNull Button addWordButton,
       @NonNull InfoBottomSheetBinding bottomSheetLayout, @NonNull CoordinatorLayout cameraContainer,
       @NonNull RecyclerView recyclerviewResults, @NonNull PreviewView viewFinder) {
     this.rootView = rootView;
+    this.addWordButton = addWordButton;
     this.bottomSheetLayout = bottomSheetLayout;
     this.cameraContainer = cameraContainer;
     this.recyclerviewResults = recyclerviewResults;
@@ -69,6 +74,12 @@ public final class FragmentCameraBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.add_word_button;
+      Button addWordButton = ViewBindings.findChildViewById(rootView, id);
+      if (addWordButton == null) {
+        break missingId;
+      }
+
       id = R.id.bottom_sheet_layout;
       View bottomSheetLayout = ViewBindings.findChildViewById(rootView, id);
       if (bottomSheetLayout == null) {
@@ -90,8 +101,8 @@ public final class FragmentCameraBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentCameraBinding((CoordinatorLayout) rootView, binding_bottomSheetLayout,
-          cameraContainer, recyclerviewResults, viewFinder);
+      return new FragmentCameraBinding((CoordinatorLayout) rootView, addWordButton,
+          binding_bottomSheetLayout, cameraContainer, recyclerviewResults, viewFinder);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

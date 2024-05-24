@@ -2652,6 +2652,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_word_button
 id adjacent
 id alertTitle
 id aligned
@@ -2725,6 +2726,7 @@ id coordinator
 id cos
 id counterclockwise
 id currentState
+id current_sentence_text_view
 id custom
 id customPanel
 id cut
@@ -2764,6 +2766,7 @@ id easeInOut
 id easeOut
 id east
 id edit_query
+id edit_text
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
@@ -2860,9 +2863,6 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
-id max_results_minus
-id max_results_plus
-id max_results_value
 id message
 id middle
 id mini
@@ -3051,9 +3051,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id threshold_minus
-id threshold_plus
-id threshold_value
 id time
 id title
 id titleDividerNoCustom
