@@ -58,6 +58,10 @@ android {
     androidResources {
         noCompress 'tflite'
     }
+
+    viewBinding {
+        enabled = true
+    }
 }
 
 // import DownloadModels task
@@ -69,6 +73,10 @@ project.ext.TEST_ASSETS_DIR = projectDir.toString() + '/src/androidTest/assets'
 apply from: 'download_models.gradle'
 
 dependencies {
+
+    implementation("com.squareup.okhttp3:okhttp:4.9.1")
+    implementation("com.google.code.gson:gson:2.8.6")
+
 
     // Kotlin lang
     implementation 'androidx.core:core-ktx:1.8.0'

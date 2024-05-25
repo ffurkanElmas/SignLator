@@ -27,6 +27,7 @@
 
     <!-- Declare permissions -->
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Added INTERNET permission -->
 
     <application
         android:allowBackup="true"
