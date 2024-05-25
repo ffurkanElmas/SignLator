@@ -75,7 +75,7 @@
                 android:textColor="@android:color/black"
                 android:textSize="16sp"
                 android:layout_below="@id/edit_text" />
-        </RelativeLayout>z
+        </RelativeLayout>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
 </androidx.core.widget.NestedScrollView>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/camera_container"
     android:layout_width="match_parent"
@@ -41,14 +41,15 @@
         android:backgroundTint="@android:color/holo_blue_dark"
         android:textColor="@android:color/white" />
 
+    <!-- Send Query Button positioned in the camera view -->
     <Button
-        android:id="@+id/text_to_speech_button"
+        android:id="@+id/send_query_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="start|center"
-        android:layout_margin="16dp"
-        android:text="Text to Speech"
-        android:backgroundTint="@android:color/holo_blue_dark"
+        android:layout_gravity="end|center"
+        android:layout_marginTop="72dp"
+        android:text="Send Query"
+        android:backgroundTint="@android:color/holo_green_dark"
         android:textColor="@android:color/white" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
