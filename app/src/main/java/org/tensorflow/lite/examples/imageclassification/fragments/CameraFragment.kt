@@ -7,15 +7,8 @@ import android.os.Bundle
 import android.util.DisplayMetrics
 import android.util.Log
 import android.view.*
-import android.widget.AdapterView
 import android.widget.Toast
-import androidx.camera.core.AspectRatio
-import androidx.camera.core.ImageProxy
-import androidx.camera.core.Camera
-import androidx.camera.core.CameraSelector
-import androidx.camera.core.ImageAnalysis
-import androidx.camera.core.Preview
-import androidx.camera.lifecycle.ProcessCameraProvider
+import androidx.camera.core.*
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
@@ -23,9 +16,15 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import org.tensorflow.lite.examples.imageclassification.ImageClassifierHelper
 import org.tensorflow.lite.examples.imageclassification.R
 import org.tensorflow.lite.examples.imageclassification.databinding.FragmentCameraBinding
-import org.tensorflow.lite.task.vision.classifier.Classifications
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
+import androidx.fragment.app.activityViewModels
+import androidx.lifecycle.Observer
+import org.tensorflow.lite.examples.imageclassification.MainViewModel
+import android.speech.tts.TextToSpeech
+import androidx.camera.lifecycle.ProcessCameraProvider
+import org.tensorflow.lite.task.vision.classifier.Classifications
+import java.util.Locale
 
 class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
 
@@ -51,6 +50,8 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
 
     private lateinit var cameraExecutor: ExecutorService
 
+    private val viewModel: MainViewModel by activityViewModels()
+    private lateinit var textToSpeech: TextToSpeech
     private val sentence = mutableListOf<String>()
 
     override fun onResume() {
@@ -67,6 +68,7 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
         super.onDestroyView()
 
         cameraExecutor.shutdown()
+        textToSpeech.shutdown()
     }
 
     override fun onCreateView(
@@ -75,7 +77,6 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
         savedInstanceState: Bundle?
     ): View {
         _fragmentCameraBinding = FragmentCameraBinding.inflate(inflater, container, false)
-
         return fragmentCameraBinding.root
     }
 
@@ -102,6 +103,40 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
         fragmentCameraBinding.addWordButton.setOnClickListener {
             addCurrentWordToSentence()
         }
+
+        fragmentCameraBinding.sendQueryButton.setOnClickListener {
+            sendQueryToGPT()
+        }
+
+        // Observe the sentenceLiveData from ViewModel
+        viewModel.sentenceLiveData.observe(viewLifecycleOwner, Observer { sentence ->
+            fragmentCameraBinding.bottomSheetLayout.currentSentenceTextView.text = sentence
+        })
+
+        // Initialize TextToSpeech
+        textToSpeech = TextToSpeech(requireContext()) { status ->
+            if (status != TextToSpeech.ERROR) {
+                textToSpeech.language = Locale("tr")
+            }
+        }
+    }
+
+    private fun sendQueryToGPT() {
+        viewModel.getGPTResponse(textToSpeech, sentence)
+    }
+
+    private fun addCurrentWordToSentence() {
+        val currentWord = classificationResultsAdapter.getCurrentWord()
+        if (currentWord != null) {
+            sentence.add(currentWord)
+            updateSentenceTextView()
+        } else {
+            Log.d(TAG, "No current word available")
+        }
+    }
+
+    private fun updateSentenceTextView() {
+        fragmentCameraBinding.bottomSheetLayout.currentSentenceTextView.text = sentence.joinToString(" ")
     }
 
     private fun setUpCamera() {
@@ -212,19 +247,5 @@ class CameraFragment : Fragment(), ImageClassifierHelper.ClassifierListener {
             classificationResultsAdapter.updateResults(results)
             classificationResultsAdapter.notifyDataSetChanged()
         }
-    }
-
-    private fun addCurrentWordToSentence() {
-        val currentWord = classificationResultsAdapter.getCurrentWord()
-        if (currentWord != null) {
-            sentence.add(currentWord)
-            updateSentenceTextView()
-        } else {
-            Log.d(TAG, "No current word available")
-        }
-    }
-
-    private fun updateSentenceTextView() {
-        fragmentCameraBinding.bottomSheetLayout.currentSentenceTextView.text = sentence.joinToString(" ")
     }
 }

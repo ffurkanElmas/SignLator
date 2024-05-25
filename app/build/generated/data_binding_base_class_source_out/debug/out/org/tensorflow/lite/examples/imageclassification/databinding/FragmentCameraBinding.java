@@ -34,16 +34,21 @@ public final class FragmentCameraBinding implements ViewBinding {
   public final RecyclerView recyclerviewResults;
 
   @NonNull
+  public final Button sendQueryButton;
+
+  @NonNull
   public final PreviewView viewFinder;
 
   private FragmentCameraBinding(@NonNull CoordinatorLayout rootView, @NonNull Button addWordButton,
       @NonNull InfoBottomSheetBinding bottomSheetLayout, @NonNull CoordinatorLayout cameraContainer,
-      @NonNull RecyclerView recyclerviewResults, @NonNull PreviewView viewFinder) {
+      @NonNull RecyclerView recyclerviewResults, @NonNull Button sendQueryButton,
+      @NonNull PreviewView viewFinder) {
     this.rootView = rootView;
     this.addWordButton = addWordButton;
     this.bottomSheetLayout = bottomSheetLayout;
     this.cameraContainer = cameraContainer;
     this.recyclerviewResults = recyclerviewResults;
+    this.sendQueryButton = sendQueryButton;
     this.viewFinder = viewFinder;
   }
 
@@ -95,6 +100,12 @@ public final class FragmentCameraBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.send_query_button;
+      Button sendQueryButton = ViewBindings.findChildViewById(rootView, id);
+      if (sendQueryButton == null) {
+        break missingId;
+      }
+
       id = R.id.view_finder;
       PreviewView viewFinder = ViewBindings.findChildViewById(rootView, id);
       if (viewFinder == null) {
@@ -102,7 +113,8 @@ public final class FragmentCameraBinding implements ViewBinding {
       }
 
       return new FragmentCameraBinding((CoordinatorLayout) rootView, addWordButton,
-          binding_bottomSheetLayout, cameraContainer, recyclerviewResults, viewFinder);
+          binding_bottomSheetLayout, cameraContainer, recyclerviewResults, sendQueryButton,
+          viewFinder);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

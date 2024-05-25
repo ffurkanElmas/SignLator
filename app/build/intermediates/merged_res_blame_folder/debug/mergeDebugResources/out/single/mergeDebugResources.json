@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconsq_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconcr_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconsq_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconcr_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconcr.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconcr.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconsq_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconcr_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/color_selector_ic.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/color/selector_ic.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconsq_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconcr_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/drawable_ic_plus.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconcr.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconcr.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconsq.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconsq.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconcr_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconsq_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/layout_fragment_camera.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconsq.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconsq.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconcr_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/navigation_nav_graph.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-anydpi-v26_signlatoriconcr.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-anydpi-v26/signlatoriconcr.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconsq_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconsq.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconsq.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_signlatoriconcr.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/signlatoriconcr.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-anydpi-v26_signlatoriconsq.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-anydpi-v26/signlatoriconsq.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconsq_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconcr_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/layout_info_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/drawable-v24_tfl_logo.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/drawable-v24/tfl_logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconcr_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconsq.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconsq.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconcr_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconsq_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-pngs-70:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/drawable_ic_minus.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconsq.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconsq.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconsq_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/drawable_icn_chevron_up.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/drawable/icn_chevron_up.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxxhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxxhdpi/signlatoriconsq_adaptive_fore.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-xxhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-xxhdpi/signlatoriconcr_adaptive_back.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-mdpi_signlatoriconcr.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-mdpi/signlatoriconcr.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/mipmap-hdpi_signlatoriconcr.png.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/mipmap-hdpi/signlatoriconcr.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-debug-74:/layout_item_classification_result.xml.flat",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-76:/layout/item_classification_result.xml"
+    }
+]
