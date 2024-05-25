@@ -38,6 +38,7 @@ id fragment_container
 id nav_graph
 id permissions_fragment
 id recyclerview_results
+id text_to_speech_button
 id tvLabel
 id tvScore
 id view_finder
