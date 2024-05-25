@@ -1,242 +1,246 @@
 [
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconsq.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconsq.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconcr_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconcr_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconsq_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconcr.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconcr.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconcr_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconsq_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconcr.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconcr.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconsq.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconsq.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-anydpi-v26_signlatoriconcr.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-anydpi-v26/signlatoriconcr.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\info_bottom_sheet.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconsq.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconsq.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconsq_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/navigation_nav_graph.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconcr_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconsq_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconsq_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconsq_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconsq_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-anydpi-v26_signlatoriconcr.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-anydpi-v26\\signlatoriconcr.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconsq_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconsq_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconsq.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconsq.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-anydpi-v26_signlatoriconsq.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-anydpi-v26/signlatoriconsq.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\drawable\\ic_minus.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconsq.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconsq.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconcr_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconcr.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconcr.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconsq_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/color_selector_ic.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/color/selector_ic.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconcr_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/layout_activity_main.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconcr_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconcr_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconcr_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconsq_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconsq_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/layout_item_classification_result.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/layout/item_classification_result.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconsq_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconsq_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconcr_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconcr_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconcr.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconcr.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/drawable-v24_tfl_logo.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/drawable-v24/tfl_logo.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\layout_item_classification_result.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\item_classification_result.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/layout_fragment_camera.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/layout/fragment_camera.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconcr_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconcr_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconcr_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconsq.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconsq.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconcr_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconcr_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconsq_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/drawable_ic_plus.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/drawable/ic_plus.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\activity_main.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconsq_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconsq_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconsq_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconsq_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconcr.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconcr.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconcr.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconcr.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/drawable_icn_chevron_up.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/drawable/icn_chevron_up.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconcr.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconcr.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconsq_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconsq_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\drawable\\icn_chevron_up.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconsq.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconsq.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\drawable-v24_tfl_logo.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\drawable-v24\\tfl_logo.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\color\\selector_ic.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconsq_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconsq_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconsq_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconsq_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-anydpi-v26_signlatoriconsq.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-anydpi-v26\\signlatoriconsq.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconsq.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconsq.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconsq_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconsq_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconcr.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconcr.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_signlatoriconcr_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/signlatoriconcr_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconsq.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconsq.png"
-    },
-    {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_signlatoriconcr_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/signlatoriconcr_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconsq_adaptive_back.png"
     },
     {
         "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/layout_info_bottom_sheet.xml.flat",
         "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/layout/info_bottom_sheet.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconsq_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\layout\\fragment_camera.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconcr_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_signlatoriconcr_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/signlatoriconcr_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconcr.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconcr.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/drawable_ic_minus.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/drawable/ic_minus.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\signlatoriconsq_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconcr_adaptive_back.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconcr_adaptive_back.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xhdpi_signlatoriconcr.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xhdpi/signlatoriconcr.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-hdpi_signlatoriconcr_adaptive_fore.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-hdpi/signlatoriconcr_adaptive_fore.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xhdpi_signlatoriconcr_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xhdpi\\signlatoriconcr_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-hdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-hdpi\\signlatoriconcr_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxhdpi_signlatoriconcr_adaptive_fore.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxhdpi\\signlatoriconcr_adaptive_fore.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconsq_adaptive_back.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconsq_adaptive_back.png"
     },
     {
-        "merged": "org.tensorflow.lite.examples.imageclassification.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "org.tensorflow.lite.examples.imageclassification.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-merged_res-41:\\mipmap-xxxhdpi_signlatoriconsq.png.flat",
+        "source": "C:\\Users\\Mehmet Yusuf Sezgi\\.gradle\\daemon\\7.3.3\\org.tensorflow.lite.examples.imageclassification.app-main-43:\\mipmap-xxxhdpi\\signlatoriconsq.png"
     }
 ]
