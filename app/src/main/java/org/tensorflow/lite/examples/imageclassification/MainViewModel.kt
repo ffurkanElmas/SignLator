@@ -73,6 +73,6 @@ class MainViewModel @Inject constructor() : ViewModel() {
     }
 
     companion object {
-        const val CHAT_GPT_API_KEY = "sk-proj-VJlE520PjWijaqlE07TyT3BlbkFJ9FM8cQ5C81xLdQp6poNS"
+        const val CHAT_GPT_API_KEY = ""
     }
 }
